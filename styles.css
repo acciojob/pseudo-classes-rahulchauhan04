@@ -24,6 +24,9 @@ ul li{
 	background-color:gray;
 	width:50%;
 	padding:10px;
+	
+}
+ul li:first-child,ul li:last-child{
 	font-size:22px;
 }
 ul li:nth-child(odd){
